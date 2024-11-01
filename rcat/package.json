@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^7.31.0",
+    "@babylonjs/gui": "^7.32.0",
+    "@babylonjs/loaders": "^7.31.0",
+    "babylonjs": "^7.31.0",
+    "earcut": "^3.0.0"
+  }
+}
